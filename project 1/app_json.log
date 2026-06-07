@@ -1,0 +1,18 @@
+{"timestamp": "2024-01-15 10:03:22", "level": "ERROR", "message": "Database timeout"}
+{"timestamp": "2024-01-15 10:03:45", "level": "INFO",    "message": "Server started"}
+{"timestamp": "2024-01-15 10:04:01", "level": "WARNING", "message": "High memory usage"}
+{"timestamp": "2024-01-15 10:04:33", "level": "ERROR",   "message": "Database timeout"}
+{"timestamp": "2024-01-15 10:05:10", "level": "INFO",    "message": "User logged in"}
+{"timestamp": "2024-01-15 10:05:55", "level": "ERROR",   "message": "Auth failed"}
+{"timestamp": "2024-01-15 10:06:20", "level": "INFO",    "message": "Cache cleared"}
+{"timestamp": "2024-01-15 10:07:44", "level": "ERROR",   "message": "Database timeout"}
+{"timestamp": "2024-01-15 10:08:10", "level": "WARNING", "message": "Disk space low"}
+{"timestamp": "2024-01-15 10:09:30", "level": "ERROR",   "message": "Connection refused"}
+{"timestamp": "2024-01-15 10:10:01", "level": "WARNING", "message": "High memory usage"}
+{"timestamp": "2024-01-15 10:11:22", "level": "ERROR",   "message": "Database timeout"}
+{"timestamp": "2024-01-15 10:12:33", "level": "ERROR",   "message": "Auth failed"}
+{"timestamp": "2024-01-15 10:14:48", "level": "ERROR",   "message": "Database timeout"}
+{"timestamp": "2024-01-15 10:15:01", "level": "ERROR",   "message": "Database timeout"}
+{"timestamp": "2024-01-15 10:16:40", "level": "ERROR",   "message": "Auth failed"}
+{"timestamp": "2024-01-15 10:18:00", "level": "ERROR",   "message": "Connection refused"}
+{"timestamp": "2024-01-15 10:20:00", "level": "INFO",    "message": "Service restarted"}
