@@ -1,0 +1,28 @@
+2024-01-15 10:03:22 ERROR Database timeout
+2024-01-15 10:03:45 INFO  Server started
+2024-01-15 10:04:01 WARNING High memory usage
+2024-01-15 10:04:33 ERROR Database timeout
+2024-01-15 10:05:10 INFO  User logged in
+2024-01-15 10:05:55 ERROR Auth failed
+2024-01-15 10:06:20 INFO  Cache cleared
+2024-01-15 10:07:44 ERROR Database timeout
+2024-01-15 10:08:10 WARNING Disk space low
+2024-01-15 10:08:55 INFO  Backup completed
+2024-01-15 10:09:30 ERROR Connection refused
+2024-01-15 10:10:01 WARNING High memory usage
+2024-01-15 10:10:45 INFO  Config reloaded
+2024-01-15 10:11:22 ERROR Database timeout
+2024-01-15 10:12:00 INFO  User logged out
+2024-01-15 10:12:33 ERROR Auth failed
+2024-01-15 10:13:15 WARNING Slow query detected
+2024-01-15 10:14:00 INFO  Health check passed
+2024-01-15 10:14:48 ERROR Database timeout
+2024-01-15 10:15:01 ERROR Database timeout
+2024-01-15 10:15:30 INFO  New connection established
+2024-01-15 10:16:05 WARNING High memory usage
+2024-01-15 10:16:40 ERROR Auth failed
+2024-01-15 10:17:22 INFO  Request handled
+2024-01-15 10:18:00 ERROR Connection refused
+2024-01-15 10:18:45 INFO  User logged in
+2024-01-15 10:19:10 WARNING Disk space low
+2024-01-15 10:20:04 INFO  Service restarted
